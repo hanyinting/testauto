@@ -1,0 +1,2 @@
+# testauto
+FROM centos
